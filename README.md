@@ -1,4 +1,10 @@
- Dashboard_Elina_Sianipar
+## About the Project
+
+This project explores the Bike Sharing Dataset using Python through exploratory data analysis and dashboard development.
+
+This project was developed as part of the Independent Study Program in Data Science at Dicoding Indonesia.
+
+Dashboard_Elina_Sianipar
 
  1. Cek versi Python
 python -version
